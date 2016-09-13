@@ -38,6 +38,7 @@ return [
         'TwigBridge\Extension\Laravel\String',
         'TwigBridge\Extension\Laravel\Translator',
         'TwigBridge\Extension\Laravel\Url',
+        'TwigBridge\Extension\Laravel\ElixirExtension',
 
         // 'TwigBridge\Extension\Laravel\Legacy\Facades',
     ],
