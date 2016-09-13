@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BrieucThomas\Twig\Extension;
+namespace TwigBridge\Extension\Laravel;
 
 /**
  * Twig extension for the Laravel Elixir component.
