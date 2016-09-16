@@ -52,7 +52,7 @@ class ElixirExtension extends \Twig_Extension
             throw new \InvalidArgumentException("File {$file} not defined in asset manifest.");
         }
 
-        return $this->buildDir.'/'.$manifest[$file];
+        return '/'.$this->buildDir.'/'.$manifest[$file];
     }
 
     /**
